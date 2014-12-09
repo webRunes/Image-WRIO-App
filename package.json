@@ -1,9 +1,8 @@
 {
-	"name": "Bhushankumar",
-	"description": "WRIO App Dev",
-	"host": "http://telesens.cloudapp.net",
+	"name": "Titter-WRIO-App",
+	"description": "https://github.com/webRunes/Image-WRIO-App/",
 	"private": true,
-	"repository": "https://github.com/webRunes/webGold-WRIO-App.git",
+	"repository": "https://github.com/webRunes/Image-WRIO-App.git",
 	"main": "lib/wrio.js",
 	"engines": {
 		"node": ">= v0.8.0"
